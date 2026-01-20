@@ -1,5 +1,5 @@
 # “Obelisk 17: A Microbial Ecosystem Regulator Facilitates Protein Metabolism of the Host in Wastewater Environments by Interactions With Pepteases”
-written by: [ZhenghhaoXiao](https://github.com/ZhenghaoXiao)
+written by: [ZhenghaoXiao](https://github.com/ZhenghaoXiao)
 
 ### Obelisk 17/*Obeliscus Aquidurentis*
 
